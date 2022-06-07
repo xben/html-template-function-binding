@@ -1,4 +1,7 @@
-HTML Template Rendering with function-binding
+#### HTML Template Rendering with function-binding
+
+![](https://raw.githubusercontent.com/xben/html-template-function-binding/main/demo.gif)
+
 - no build tools:  ~~nodejs~~ ~~npm~~ ~~npx~~ ~~grunt~~
 - no dependencies
 - runs completely in the browser
