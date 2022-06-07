@@ -7,8 +7,8 @@
 - runs completely in the browser
 
 Each HTML-Tag in the templates can have data-attributes
-data-func: will execute the defined function
-data-temp: will include the defined template
+- data-func: will execute the defined function
+- data-temp: will include the defined template
 
 Potential improvements
 - lazy loading of templates and scripts
